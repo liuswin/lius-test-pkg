@@ -1,0 +1,20 @@
+{
+  "name": "@liuswin/lius-test-pkg",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/liuswin/lius-test-pkg.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/liuswin/lius-test-pkg/issues"
+  },
+  "homepage": "https://github.com/liuswin/lius-test-pkg#readme"
+}
